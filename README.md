@@ -1,9 +1,17 @@
 Readme.dm
-Week5_assignment
+---------
+
+# Week5_assignment
+
 Recursive implementation of Floyd Warshall algorithm
 
-Installation
-Usage
+
+## Installation
+
+https://github.com/Jsavaia/Week5_assignment.git
+
+
+# Usage
 Python version 3.11 recommended
 
 #Run the performance tests:
@@ -14,7 +22,8 @@ performance_floyd.py
 
 test_floyd.py
 
-Files
+
+# Files
 main.py: Implementation of floyd_recursive function
 
 performance_floyd: Performance test for floyd_recursive
@@ -29,5 +38,6 @@ Directory tree.txt: Tree structure of Week5_assignment
 
 License.txt
 
-License
+# License
+
 MIT LICENSE
