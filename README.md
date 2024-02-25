@@ -109,3 +109,5 @@ Readme.dm: Project documentation
 Directory tree.txt: Tree structure of Week5_assignment
 
 # License
+
+MIT License
